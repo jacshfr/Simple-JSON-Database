@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/jacshfr/Simple-JSON-Database.svg?branch=second)](https://travis-ci.org/jacshfr/Simple-JSON-Database)
+
 Simple-JSON-Database
 ====================
 
